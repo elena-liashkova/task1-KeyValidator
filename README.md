@@ -7,8 +7,8 @@
 На тестирование затрачено: 0,3 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [1](https://github.com/elena-liashkova/task1-KeyValidator/issues/1)
-* [2](https://github.com/elena-liashkova/task1-KeyValidator/issues/2)
+* [Невалидность валидных ключей приложения в виде класса KeyValidator.](https://github.com/elena-liashkova/task1-KeyValidator/issues/1)
+* [Валидность невалидных ключей приложения в виде класса KeyValidator.](https://github.com/elena-liashkova/task1-KeyValidator/issues/2)
 
 ## Описание процесса тестирования
 
